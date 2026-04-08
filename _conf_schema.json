@@ -1,0 +1,8 @@
+{
+    "whitelist": {
+        "description": "白名单会话",
+        "hint": "填入允许开启监听的会话 UMO 列表，例如 qq:group:123456。列表为空则视为不启用本插件功能。",
+        "type": "list",
+        "default": []
+    }
+}
